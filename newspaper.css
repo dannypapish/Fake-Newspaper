@@ -1,0 +1,49 @@
+
+.headline {
+	text-align:center;
+	font-style:comic sans ms;
+	font-size:50px;
+	background-color: #e5e382;
+
+}
+.column1 {
+	width:660px;
+	height:500px;
+		float:left;
+}
+.column2 {
+	width:660px;
+	height:500px;
+	float:right;
+}
+.image1 {
+	height:150px;
+	width:200px;
+	float:right;
+	margin:20px;
+}
+.image2 {
+	height:150px;
+	width:200px;
+	float:right;
+	margin:30px;
+}
+.image3 {
+	height:150px;
+	width:200px;
+	float:right;
+	margin:30px;
+}
+.article1 {
+	height:200px;
+	width:660px;
+}
+.article2 {
+	height:200px;
+	width:660px;
+}
+.article3 {
+	height:200px;
+	width:660px;
+}
+
